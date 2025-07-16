@@ -1,0 +1,12 @@
+# Ignore vitual env
+venv/
+
+# Ignore arquivos do Django
+__pychache__/
+*.__pyc
+db.sqlite3
+
+# Ignore IDEs
+
+.vscode/
+*.log
